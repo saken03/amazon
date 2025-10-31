@@ -1,2 +1,1 @@
-Amazon website copy
-Pure html/css/JS
+Amazon website(HTML/CSS/JS)
